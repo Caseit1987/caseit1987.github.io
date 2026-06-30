@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on My New Hugo Project</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>How I Found a Systemic Backdoor in Critical Infrastructure — From a Non-Rooted Android Phone</title>
+				<link>http://localhost:1313/posts/my-discovery/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/my-discovery/</guid>
+				<description>&lt;h2 id=&#34;the-discovery&#34;&gt;The Discovery&lt;/h2&gt;&#xA;&lt;p&gt;I discovered a systemic architectural backdoor in firmware used across multiple critical infrastructure vendors.&lt;/p&gt;&#xA;&lt;p&gt;The backdoor allows remote, zero-click authentication bypass and includes an explicit unlock command, proving intentional design.&lt;/p&gt;&#xA;&lt;p&gt;I validated it against a live U.S. government IP, successfully triggering the backdoor and receiving a response.&lt;/p&gt;&#xA;&lt;p&gt;I reported it to CISA, who assigned case &lt;strong&gt;VU#302619&lt;/strong&gt; and escalated it to emergency priority.&lt;/p&gt;&#xA;&lt;p&gt;I built a patent‑pending defensive framework that blocks this entire class of vulnerability at LayerZero in under 0.15ms.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pages on My New Hugo Project</title>
+		<link>http://localhost:1313/pages/</link>
+		<description>Recent content in Pages on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ETB AAV LayerZero Framework</title>
+				<link>http://localhost:1313/pages/framework/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/framework/</guid>
+				<description>&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;&#xA;&lt;p&gt;The cybersecurity industry is drowning in reactive patching. Vendors are scrambling to fix thousands of vulnerabilities (Microsoft patched 200+ in a single month, Apple 29+), many of which are zero-click and actively exploited.&lt;/p&gt;&#xA;&lt;p&gt;A hardcoded architectural backdoor was discovered across multiple critical infrastructure vendors (Rockwell, Siemens, Ubiquiti, and Google/Android), proving the existence of a systemic, cross-industry failure in how trust is validated.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-solution-etb-aav-layerzero&#34;&gt;The Solution: ETB AAV LayerZero&lt;/h2&gt;&#xA;&lt;p&gt;The Eternal Trust Boundary (ETB) Authenticate, Authorize, Validate (AAV) LayerZero Framework is a proactive, pre-execution validation gate that sits at the network boundary.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>White Paper: The Universal Backdoor &amp; The Proactive Defense</title>
+				<link>http://localhost:1313/pages/whitepaper/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/whitepaper/</guid>
+				<description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;&#xA;&lt;p&gt;A hardcoded, cross-vendor architectural backdoor (&lt;code&gt;/&lt;/code&gt;) has been discovered affecting critical infrastructure. This flaw allows remote, zero-click authentication bypass across ATMs, industrial control systems (Rockwell, Siemens), and mobile ecosystems (Google/Android).&lt;/p&gt;&#xA;&lt;p&gt;Traditional reactive patching has failed. The industry is facing a &amp;ldquo;patch tsunami&amp;rdquo; of 1,000+ vulnerabilities in a single cycle, with patches being bypassed or incomplete.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-etb-aav-layerzero-framework&#34;&gt;The ETB AAV LayerZero Framework&lt;/h2&gt;&#xA;&lt;p&gt;This patent-pending framework offers the only known proactive defense.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
