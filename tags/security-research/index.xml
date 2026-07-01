@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Security-Research on My New Hugo Project</title>
+		<link>https://example.org/tags/security-research/</link>
+		<description>Recent content in Security-Research on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://example.org/tags/security-research/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Building a Lightweight, High-Assurance Ingestion Pipeline for Telemetry Analysis</title>
+				<link>https://example.org/posts/lightweight_ingestion_pipeline/</link>
+				<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://example.org/posts/lightweight_ingestion_pipeline/</guid>
+				<description>&lt;h1 id=&#34;building-a-lightweight-high-assurance-ingestion-pipeline-for-telemetry-analysis&#34;&gt;Building a Lightweight, High-Assurance Ingestion Pipeline for Telemetry Analysis&lt;/h1&gt;&#xA;&lt;p&gt;In security research, handling raw telemetry, configuration logs, and sensor payloads from embedded hardware is a messy reality. When auditing systems like financial gateways or industrial controls, you are constantly bombarded with unstructured or semi-structured data.&lt;/p&gt;&#xA;&lt;p&gt;If your workflow involves manually opening JSON files, copying and pasting error logs, and organizing report files by hand, you are introducing a massive operational bottleneck. Worse, manual processing introduces room for human error—such as missing a critical desynchronization flag or accidentally altering a raw capture file.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on My New Hugo Project</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>https://example.org/posts/</link>
 		<description>Recent content in Posts on My New Hugo Project</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,14 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Building a Lightweight, High-Assurance Ingestion Pipeline for Telemetry Analysis</title>
+				<link>https://example.org/posts/lightweight_ingestion_pipeline/</link>
+				<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://example.org/posts/lightweight_ingestion_pipeline/</guid>
+				<description>&lt;h1 id=&#34;building-a-lightweight-high-assurance-ingestion-pipeline-for-telemetry-analysis&#34;&gt;Building a Lightweight, High-Assurance Ingestion Pipeline for Telemetry Analysis&lt;/h1&gt;&#xA;&lt;p&gt;In security research, handling raw telemetry, configuration logs, and sensor payloads from embedded hardware is a messy reality. When auditing systems like financial gateways or industrial controls, you are constantly bombarded with unstructured or semi-structured data.&lt;/p&gt;&#xA;&lt;p&gt;If your workflow involves manually opening JSON files, copying and pasting error logs, and organizing report files by hand, you are introducing a massive operational bottleneck. Worse, manual processing introduces room for human error—such as missing a critical desynchronization flag or accidentally altering a raw capture file.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>White Paper: The Universal Backdoor &amp; The Proactive Defense</title>
+				<link>https://example.org/posts/whitepaper_universal_backdoor_defense/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://example.org/posts/whitepaper_universal_backdoor_defense/</guid>
+				<description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;&#xA;&lt;p&gt;A hardcoded, cross-vendor architectural backdoor (&lt;code&gt;/&lt;/code&gt;) has been discovered affecting critical infrastructure. This flaw allows remote, zero-click authentication bypass across ATMs, industrial control systems (Rockwell, Siemens), and mobile ecosystems (Google/Android).&lt;/p&gt;&#xA;&lt;p&gt;Traditional reactive patching has failed. The industry is facing a “patch tsunami” of 1,000+ vulnerabilities in a single cycle, with patches being bypassed or incomplete.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-etb-aav-layerzero-framework&#34;&gt;The ETB AAV LayerZero Framework&lt;/h2&gt;&#xA;&lt;p&gt;This patent-pending framework offers the only known proactive defense.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>How I Found a Systemic Backdoor in Critical Infrastructure — From a Non-Rooted Android Phone</title>
-				<link>http://localhost:1313/posts/my-discovery/</link>
+				<link>https://example.org/posts/my-discovery/</link>
 				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/my-discovery/</guid>
+				<guid>https://example.org/posts/my-discovery/</guid>
 				<description>&lt;h2 id=&#34;the-discovery&#34;&gt;The Discovery&lt;/h2&gt;&#xA;&lt;p&gt;I discovered a systemic architectural backdoor in firmware used across multiple critical infrastructure vendors.&lt;/p&gt;&#xA;&lt;p&gt;The backdoor allows remote, zero-click authentication bypass and includes an explicit unlock command, proving intentional design.&lt;/p&gt;&#xA;&lt;p&gt;I validated it against a live U.S. government IP, successfully triggering the backdoor and receiving a response.&lt;/p&gt;&#xA;&lt;p&gt;I reported it to CISA, who assigned case &lt;strong&gt;VU#302619&lt;/strong&gt; and escalated it to emergency priority.&lt;/p&gt;&#xA;&lt;p&gt;I built a patent‑pending defensive framework that blocks this entire class of vulnerability at LayerZero in under 0.15ms.&lt;/p&gt;</description>
 			</item>
 	</channel>

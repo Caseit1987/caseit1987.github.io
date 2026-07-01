@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ETB-Framework on My New Hugo Project</title>
+		<link>https://example.org/tags/etb-framework/</link>
+		<description>Recent content in ETB-Framework on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://example.org/tags/etb-framework/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>White Paper: The Universal Backdoor &amp; The Proactive Defense</title>
+				<link>https://example.org/posts/whitepaper_universal_backdoor_defense/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://example.org/posts/whitepaper_universal_backdoor_defense/</guid>
+				<description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;&#xA;&lt;p&gt;A hardcoded, cross-vendor architectural backdoor (&lt;code&gt;/&lt;/code&gt;) has been discovered affecting critical infrastructure. This flaw allows remote, zero-click authentication bypass across ATMs, industrial control systems (Rockwell, Siemens), and mobile ecosystems (Google/Android).&lt;/p&gt;&#xA;&lt;p&gt;Traditional reactive patching has failed. The industry is facing a “patch tsunami” of 1,000+ vulnerabilities in a single cycle, with patches being bypassed or incomplete.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-etb-aav-layerzero-framework&#34;&gt;The ETB AAV LayerZero Framework&lt;/h2&gt;&#xA;&lt;p&gt;This patent-pending framework offers the only known proactive defense.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>My New Hugo Project</title>
-		<link>http://localhost:1313/</link>
+		<link>https://example.org/</link>
 		<description>Recent content on My New Hugo Project</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,70 +10,84 @@
 		
 		
 		
-			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Building a Lightweight, High-Assurance Ingestion Pipeline for Telemetry Analysis</title>
+				<link>https://example.org/posts/lightweight_ingestion_pipeline/</link>
+				<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://example.org/posts/lightweight_ingestion_pipeline/</guid>
+				<description>&lt;h1 id=&#34;building-a-lightweight-high-assurance-ingestion-pipeline-for-telemetry-analysis&#34;&gt;Building a Lightweight, High-Assurance Ingestion Pipeline for Telemetry Analysis&lt;/h1&gt;&#xA;&lt;p&gt;In security research, handling raw telemetry, configuration logs, and sensor payloads from embedded hardware is a messy reality. When auditing systems like financial gateways or industrial controls, you are constantly bombarded with unstructured or semi-structured data.&lt;/p&gt;&#xA;&lt;p&gt;If your workflow involves manually opening JSON files, copying and pasting error logs, and organizing report files by hand, you are introducing a massive operational bottleneck. Worse, manual processing introduces room for human error—such as missing a critical desynchronization flag or accidentally altering a raw capture file.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>ETB AAV LayerZero Framework</title>
-				<link>http://localhost:1313/framework/</link>
+				<link>https://example.org/framework/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/framework/</guid>
+				<guid>https://example.org/framework/</guid>
 				<description>&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;&#xA;&lt;p&gt;The cybersecurity industry is drowning in reactive patching. Vendors are scrambling to fix thousands of vulnerabilities (Microsoft patched 200+ in a single month, Apple 29+), many of which are zero-click and actively exploited.&lt;/p&gt;&#xA;&lt;p&gt;A hardcoded architectural backdoor (&lt;code&gt;46D1&lt;/code&gt;) was discovered across multiple critical infrastructure vendors (Rockwell, Siemens, Ubiquiti, and Google/Android), proving the existence of a systemic, cross-industry failure in how trust is validated.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-solution-etb-aav-layerzero&#34;&gt;The Solution: ETB AAV LayerZero&lt;/h2&gt;&#xA;&lt;p&gt;The Eternal Trust Boundary (ETB) Authenticate, Authorize, Validate (AAV) LayerZero Framework is a proactive, pre-execution validation gate that sits at the network boundary.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>ETB AAV LayerZero Framework</title>
-				<link>http://localhost:1313/pages/framework/</link>
+				<link>https://example.org/pages/framework/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pages/framework/</guid>
+				<guid>https://example.org/pages/framework/</guid>
 				<description>&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;&#xA;&lt;p&gt;The cybersecurity industry is drowning in reactive patching. Vendors are scrambling to fix thousands of vulnerabilities (Microsoft patched 200+ in a single month, Apple 29+), many of which are zero-click and actively exploited.&lt;/p&gt;&#xA;&lt;p&gt;A hardcoded architectural backdoor was discovered across multiple critical infrastructure vendors (Rockwell, Siemens, Ubiquiti, and Google/Android), proving the existence of a systemic, cross-industry failure in how trust is validated.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-solution-etb-aav-layerzero&#34;&gt;The Solution: ETB AAV LayerZero&lt;/h2&gt;&#xA;&lt;p&gt;The Eternal Trust Boundary (ETB) Authenticate, Authorize, Validate (AAV) LayerZero Framework is a proactive, pre-execution validation gate that sits at the network boundary.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>White Paper: The Universal Backdoor &amp; The Proactive Defense</title>
-				<link>http://localhost:1313/pages/whitepaper/</link>
+				<link>https://example.org/pages/whitepaper/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pages/whitepaper/</guid>
+				<guid>https://example.org/pages/whitepaper/</guid>
 				<description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;&#xA;&lt;p&gt;A hardcoded, cross-vendor architectural backdoor (&lt;code&gt;/&lt;/code&gt;) has been discovered affecting critical infrastructure. This flaw allows remote, zero-click authentication bypass across ATMs, industrial control systems (Rockwell, Siemens), and mobile ecosystems (Google/Android).&lt;/p&gt;&#xA;&lt;p&gt;Traditional reactive patching has failed. The industry is facing a &amp;ldquo;patch tsunami&amp;rdquo; of 1,000+ vulnerabilities in a single cycle, with patches being bypassed or incomplete.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-etb-aav-layerzero-framework&#34;&gt;The ETB AAV LayerZero Framework&lt;/h2&gt;&#xA;&lt;p&gt;This patent-pending framework offers the only known proactive defense.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>White Paper: The Universal Backdoor &amp; The Proactive Defense</title>
-				<link>http://localhost:1313/whitepaper/</link>
+				<link>https://example.org/posts/whitepaper_universal_backdoor_defense/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/whitepaper/</guid>
+				<guid>https://example.org/posts/whitepaper_universal_backdoor_defense/</guid>
+				<description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;&#xA;&lt;p&gt;A hardcoded, cross-vendor architectural backdoor (&lt;code&gt;/&lt;/code&gt;) has been discovered affecting critical infrastructure. This flaw allows remote, zero-click authentication bypass across ATMs, industrial control systems (Rockwell, Siemens), and mobile ecosystems (Google/Android).&lt;/p&gt;&#xA;&lt;p&gt;Traditional reactive patching has failed. The industry is facing a “patch tsunami” of 1,000+ vulnerabilities in a single cycle, with patches being bypassed or incomplete.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-etb-aav-layerzero-framework&#34;&gt;The ETB AAV LayerZero Framework&lt;/h2&gt;&#xA;&lt;p&gt;This patent-pending framework offers the only known proactive defense.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>White Paper: The Universal Backdoor &amp; The Proactive Defense</title>
+				<link>https://example.org/whitepaper/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://example.org/whitepaper/</guid>
 				<description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;&#xA;&lt;p&gt;A hardcoded, cross-vendor architectural backdoor (&lt;code&gt;46D1&lt;/code&gt; / &lt;code&gt;4ccb9e46&lt;/code&gt;) has been discovered affecting critical infrastructure. This flaw allows remote, zero-click authentication bypass across ATMs, industrial control systems (Rockwell, Siemens), and mobile ecosystems (Google/Android).&lt;/p&gt;&#xA;&lt;p&gt;Traditional reactive patching has failed. The industry is facing a &amp;ldquo;patch tsunami&amp;rdquo; of 1,000+ vulnerabilities in a single cycle, with patches being bypassed or incomplete.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-etb-aav-layerzero-framework&#34;&gt;The ETB AAV LayerZero Framework&lt;/h2&gt;&#xA;&lt;p&gt;This patent-pending framework offers the only known proactive defense.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>About Me</title>
-				<link>http://localhost:1313/about/</link>
+				<link>https://example.org/about/</link>
 				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/about/</guid>
+				<guid>https://example.org/about/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;m Justin Schomer, a self‑taught security researcher and founder of Caseit2u2 Secure Labs.&lt;/p&gt;&#xA;&lt;p&gt;I discovered a hardcoded architectural backdoor (&lt;code&gt;46D1&lt;/code&gt; / &lt;code&gt;4ccb9e46&lt;/code&gt;) in firmware used by Rockwell Automation, Siemens, and Android Debug Bridge (ADB). The backdoor allows remote, zero-click authentication bypass and includes an explicit unlock command (&lt;code&gt;action=unlock&lt;/code&gt;), proving intentional design.&lt;/p&gt;&#xA;&lt;p&gt;I validated it against a live U.S. Department of Defense IP, reported it to CISA (VU#302619), and built a patent‑pending defensive framework (ETB AAV LayerZero) that blocks this entire class of vulnerability.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Consulting &amp; Services</title>
-				<link>http://localhost:1313/consulting/</link>
+				<link>https://example.org/consulting/</link>
 				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/consulting/</guid>
+				<guid>https://example.org/consulting/</guid>
 				<description>&lt;p&gt;I offer expert consulting in critical infrastructure security, vulnerability research, and automation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Services:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ICS/OT Security Audits&lt;/li&gt;&#xA;&lt;li&gt;Vulnerability Discovery &amp;amp; Validation&lt;/li&gt;&#xA;&lt;li&gt;Firmware Reverse Engineering&lt;/li&gt;&#xA;&lt;li&gt;Python/Bash Automation&lt;/li&gt;&#xA;&lt;li&gt;Defensive Framework Deployment (ETB AAV LayerZero)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Rates:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$300–$500/hour for standard consulting&lt;/li&gt;&#xA;&lt;li&gt;$500–$1,000/hour for deep technical work&lt;/li&gt;&#xA;&lt;li&gt;Fixed‑price assessments: $2,500–$10,000&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; &lt;a href=&#34;mailto:caseit2u2.securelabs@gmail.com&#34;&gt;caseit2u2.securelabs@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Contact</title>
-				<link>http://localhost:1313/contact/</link>
+				<link>https://example.org/contact/</link>
 				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/contact/</guid>
+				<guid>https://example.org/contact/</guid>
 				<description>&lt;p&gt;You can reach me at:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:caseit2u2.securelabs@gmail.com&#34;&gt;caseit2u2.securelabs@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/justin-schomer-704571271&#34;&gt;Justin Schomer&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Discord:&lt;/strong&gt; Fathersecurity (on most security servers)&lt;/p&gt;&#xA;&lt;p&gt;For consulting inquiries, please include a brief description of your needs and timeline.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>How I Found a Systemic Backdoor in Critical Infrastructure — From a Non-Rooted Android Phone</title>
-				<link>http://localhost:1313/posts/my-discovery/</link>
+				<link>https://example.org/posts/my-discovery/</link>
 				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/my-discovery/</guid>
+				<guid>https://example.org/posts/my-discovery/</guid>
 				<description>&lt;h2 id=&#34;the-discovery&#34;&gt;The Discovery&lt;/h2&gt;&#xA;&lt;p&gt;I discovered a systemic architectural backdoor in firmware used across multiple critical infrastructure vendors.&lt;/p&gt;&#xA;&lt;p&gt;The backdoor allows remote, zero-click authentication bypass and includes an explicit unlock command, proving intentional design.&lt;/p&gt;&#xA;&lt;p&gt;I validated it against a live U.S. government IP, successfully triggering the backdoor and receiving a response.&lt;/p&gt;&#xA;&lt;p&gt;I reported it to CISA, who assigned case &lt;strong&gt;VU#302619&lt;/strong&gt; and escalated it to emergency priority.&lt;/p&gt;&#xA;&lt;p&gt;I built a patent‑pending defensive framework that blocks this entire class of vulnerability at LayerZero in under 0.15ms.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>My Research</title>
-				<link>http://localhost:1313/research/</link>
+				<link>https://example.org/research/</link>
 				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/research/</guid>
+				<guid>https://example.org/research/</guid>
 				<description>&lt;p&gt;I have submitted over 60 vulnerability reports across multiple platforms, including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;MITRE CVE Team&lt;/strong&gt; — 46D1 architectural backdoor (under review)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;CISA&lt;/strong&gt; — VU#302619 (active, escalated to emergency priority)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;HackerOne, Bugcrowd, BugBase, Crowdfense&lt;/strong&gt; — 60+ reports&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Vendors Researched:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rockwell Automation (CIP authentication bypass)&lt;/li&gt;&#xA;&lt;li&gt;Siemens (CIP architectural backdoor)&lt;/li&gt;&#xA;&lt;li&gt;Google (Android ADB)&lt;/li&gt;&#xA;&lt;li&gt;Cisco (SSH attack scripts)&lt;/li&gt;&#xA;&lt;li&gt;Ubiquiti (firmware extraction)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Discoveries:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hardcoded backdoor (&lt;code&gt;46D1&lt;/code&gt; / &lt;code&gt;4ccb9e46&lt;/code&gt;) in critical infrastructure firmware&lt;/li&gt;&#xA;&lt;li&gt;Systemic cross‑vendor architectural flaw&lt;/li&gt;&#xA;&lt;li&gt;Patent‑pending defensive framework (ETB AAV LayerZero)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
